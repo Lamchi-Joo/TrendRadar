@@ -488,7 +488,7 @@ advanced:
   # 以下为内部参数（一般无需修改）
   # 消息分批大小（字节）- 内部配置，请勿修改
   batch_size:
-    default: 50000
+    default: 3800
     dingtalk: 20000
     feishu: 30000
     bark: 4000
